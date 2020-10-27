@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Pantry</string>
+    <string name="proceed_button">Proceed</string>
+    <string name="help_button">Help</string>
+    <string name="showRecipe_button">Show Me Recipes!</string>
+    <string name="have_ingredients_button">I have ingredients</string>
+
+</resources>
